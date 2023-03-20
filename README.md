@@ -10,3 +10,5 @@ An interactive team exercise made for year 9 GCSE students on the topics of stor
    2. For task 1(b): recreate this "bitmap" image ![image](images/task%201b%20image.png)
 4. First try coding the exact pixel colour code, then try using nested for loops.
 5. `task2.py` is a more fun open-ended task. Create your own image!
+
+Code in `pygameReadMapToGrid.py` from [here](https://betterprogramming.pub/making-grids-in-python-7cf62c95f413) and slightly modified by me.
